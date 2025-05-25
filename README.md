@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @slipgate-io
+- 👋 Hi, I’m @slipgateau
 - 👀 I’m interested in C#, .NET. Game Development.
-- 📫 How to reach me https://twitter.com/slipgateio
+- 📫 How to reach me [@slipgateau.bsky.social](https://bsky.app/profile/slipgateau.bsky.social)
 
 <!---
 slipgate-io/slipgate-io is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
